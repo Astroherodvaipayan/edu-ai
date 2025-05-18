@@ -1,6 +1,8 @@
 ved-ai is an AI-powered assistant that transcribes lectures, generates structured notes, and creates quizzes to improve the online learning experience. 
 It efficiently converts audio recordings and YouTube videos into comprehensive lecture notes and formulates quizzes to assess students' understanding.
 
+link to our ppt and report: https://drive.google.com/drive/folders/1kHL5Vxf58PeYXpMEjYFggk4_KNdopfk1?usp=drive_link
+
 ## 🌟 Features
 
 - **Audio Transcription**: Upload audio recordings and get accurate transcriptions with timestamps
