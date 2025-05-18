@@ -3,6 +3,8 @@ It efficiently converts audio recordings and YouTube videos into comprehensive l
 
 link to our ppt and report: https://drive.google.com/drive/folders/1kHL5Vxf58PeYXpMEjYFggk4_KNdopfk1?usp=drive_link
 
+https://mentormindai.vercel.app/
+
 ## 🌟 Features
 
 - **Audio Transcription**: Upload audio recordings and get accurate transcriptions with timestamps
